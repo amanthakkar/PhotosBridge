@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="shortcut_library_short">Library home</string>
+    <string name="shortcut_library_long">Open your photo library</string>
+    <string name="shortcut_create_short">Create / manage albums</string>
+    <string name="shortcut_create_long">Create albums in the desktop layout</string>
+</resources>

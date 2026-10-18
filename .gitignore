@@ -1,0 +1,13 @@
+# Signing material - NEVER commit a keystore
+*.keystore
+*.jks
+
+# Build outputs
+dist/
+build/
+*.apk
+*.idsig
+
+# Local tooling
+.gradle/
+local.properties
