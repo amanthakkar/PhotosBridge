@@ -1,4 +1,4 @@
-# Apple on Android — iCloud Photos for Android (unofficial)
+# iCloud Photos on Android (unofficial)
 
 An unofficial Android web client for Apple's iCloud Photos web app.
 (The app installs under the name **PhotosBridge**.)
@@ -48,7 +48,7 @@ website you could open in Chrome.
 
 ## Get the APK
 
-Grab `photosbridge-v0.3.apk` from the [latest release](https://github.com/amanthakkar/apple-on-android/releases)
+Grab `photosbridge-v0.3.apk` from the [latest release](https://github.com/amanthakkar/icloud-photos-on-android/releases)
 and sideload it (Android will ask you to allow installs from your browser/files app).
 The release build is signed with a debug key — fine for personal sideloading; if you'd
 rather trust only your own key, build from source below (the script generates your own
@@ -86,5 +86,5 @@ Built and run by [@amanthakkar](https://github.com/amanthakkar) — one person's
 - **[muse-mailbox](https://github.com/amanthakkar/muse-mailbox)** — E2E-encrypted Muse↔Muse messaging via a blind relay
 - **[musebook](https://github.com/amanthakkar/musebook)** — private shared boards for a family's Muses
 - **[cortex-showcase](https://github.com/amanthakkar/cortex-showcase)** — the homelab agent stack these grew out of, as an [interactive architecture tour](https://amanthakkar.github.io/cortex-showcase/)
-- **[Apple on Android](https://github.com/amanthakkar/apple-on-android)** — iCloud Photos for Android, built the same fix-the-friction way ← **you are here**
+- **[iCloud Photos on Android](https://github.com/amanthakkar/icloud-photos-on-android)** — Apple Photos on Android, built the same fix-the-friction way ← **you are here**
 - **Muse gadget skills** — [Tesla + Nest](https://github.com/facebookincubator/muse-gadget-sdk/pull/222) and [Bambu Lab](https://github.com/facebookincubator/muse-gadget-sdk/pull/224) skills proposed to Meta's muse-gadget-sdk
